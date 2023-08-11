@@ -1,5 +1,5 @@
 ---
-title: Advanced PLC Communication Techniques: OPC UA and MQTT 
+title: "Advanced PLC Communication Techniques: OPC UA and MQTT" 
 date: 2022-02-27 11:42:38
 categories: [Article, ]
 tags: []     # TAG names should always be lowercase
