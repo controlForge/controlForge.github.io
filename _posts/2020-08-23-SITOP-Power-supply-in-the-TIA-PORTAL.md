@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![SITOP - Power supply in the TIA PORTAL](./Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA582LI-1.png "SITOP - Power supply in the TIA PORTAL")
+![SITOP - Power supply in the TIA PORTAL](../../Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA582LI-1.png "SITOP - Power supply in the TIA PORTAL")

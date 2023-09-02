@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![3WL air circuit breaker, sizes 1-3](./Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA585O6-1.png "3WL air circuit breaker, sizes 1-3")
+![3WL air circuit breaker, sizes 1-3](../../Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA585O6-1.png "3WL air circuit breaker, sizes 1-3")

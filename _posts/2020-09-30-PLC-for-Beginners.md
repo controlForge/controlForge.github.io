@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![PLC for Beginners](./Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586MD-1.png "PLC for Beginners")
+![PLC for Beginners](../../Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586MD-1.png "PLC for Beginners")

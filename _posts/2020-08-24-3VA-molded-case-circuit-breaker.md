@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![3VA molded case circuit breaker](./Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA585O4-1.png "3VA molded case circuit breaker")
+![3VA molded case circuit breaker](../../Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA585O4-1.png "3VA molded case circuit breaker")

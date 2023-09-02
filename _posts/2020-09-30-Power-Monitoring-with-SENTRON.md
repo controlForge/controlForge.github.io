@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![Power Monitoring with SENTRON](./Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA585O5-1.png "Power Monitoring with SENTRON")
+![Power Monitoring with SENTRON](../../Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA585O5-1.png "Power Monitoring with SENTRON")

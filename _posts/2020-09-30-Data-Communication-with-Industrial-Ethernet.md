@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![Data Communication with Industrial Ethernet](./Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA585O2-1.png "Data Communication with Industrial Ethernet")
+![Data Communication with Industrial Ethernet](../../Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA585O2-1.png "Data Communication with Industrial Ethernet")

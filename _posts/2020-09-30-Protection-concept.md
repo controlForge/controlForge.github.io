@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![Protection concept](./Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA585O9-1.png "Protection concept")
+![Protection concept](../../Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA585O9-1.png "Protection concept")

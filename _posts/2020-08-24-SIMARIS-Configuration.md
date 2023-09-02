@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![SIMARIS Configuration](./Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586MA-1.png "SIMARIS Configuration")
+![SIMARIS Configuration](../../Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586MA-1.png "SIMARIS Configuration")

@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![PROFIBUS in process automation](./Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586MF-1.png "PROFIBUS in process automation")
+![PROFIBUS in process automation](../../Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586MF-1.png "PROFIBUS in process automation")
