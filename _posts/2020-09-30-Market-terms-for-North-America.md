@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![Market terms for North America](../Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586MB-1.png "Market terms for North America")
+![Market terms for North America](./Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586MB-1.png "Market terms for North America")

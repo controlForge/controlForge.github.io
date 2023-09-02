@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![Process control engineering for beginner](../Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586ME-1.png "Process control engineering for beginner")
+![Process control engineering for beginner](./Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586ME-1.png "Process control engineering for beginner")

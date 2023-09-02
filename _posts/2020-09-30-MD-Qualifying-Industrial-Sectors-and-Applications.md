@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![MD Qualifying - Industrial Sectors and Applications](../Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586MI-1.png "MD Qualifying - Industrial Sectors and Applications")
+![MD Qualifying - Industrial Sectors and Applications](./Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586MI-1.png "MD Qualifying - Industrial Sectors and Applications")

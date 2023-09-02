@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![Protection systems in low-voltage power distribution](../Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA585O7-1.png "Protection systems in low-voltage power distribution")
+![Protection systems in low-voltage power distribution](./Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA585O7-1.png "Protection systems in low-voltage power distribution")

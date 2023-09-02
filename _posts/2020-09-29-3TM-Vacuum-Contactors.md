@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![3TM Vacuum Contactors](../Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA585O3-1.png "3TM Vacuum Contactors")
+![3TM Vacuum Contactors](./Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA585O3-1.png "3TM Vacuum Contactors")

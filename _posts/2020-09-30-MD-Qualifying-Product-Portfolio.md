@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![MD Qualifying - Product Portfolio](../Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586MJ-1.png "MD Qualifying - Product Portfolio")
+![MD Qualifying - Product Portfolio](./Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586MJ-1.png "MD Qualifying - Product Portfolio")

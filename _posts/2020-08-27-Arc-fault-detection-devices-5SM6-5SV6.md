@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![Arc fault detection devices 5SM6 / 5SV6](../Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA585O8-1.png "Arc fault detection devices 5SM6 / 5SV6")
+![Arc fault detection devices 5SM6 / 5SV6](./Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA585O8-1.png "Arc fault detection devices 5SM6 / 5SV6")

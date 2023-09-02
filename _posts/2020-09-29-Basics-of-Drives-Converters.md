@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![Basics of Drives - Converters](../Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586MR-1.png "Basics of Drives - Converters")
+![Basics of Drives - Converters](./Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586MR-1.png "Basics of Drives - Converters")

@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![SIMATIC TIA Portal Structured Programming](../Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586MC-1.png "SIMATIC TIA Portal Structured Programming")
+![SIMATIC TIA Portal Structured Programming](./Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586MC-1.png "SIMATIC TIA Portal Structured Programming")

@@ -6,4 +6,4 @@ categories: [Certificate]
 ---
 
 
-![Basics of Drives - Motors](../Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586MH-1.png "Basics of Drives - Motors")
+![Basics of Drives - Motors](./Certs/In_DB_lc.robots.LCPDFCertificateGenerationProductRobot_QA586MH-1.png "Basics of Drives - Motors")
